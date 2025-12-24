@@ -34,39 +34,6 @@ Hi! I’m Lucas Martín López, a Junior Data Scientist with strong skills in Py
 ![](https://nirzak-streak-stats.vercel.app/?user=Lucas-Martin-Lopez&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Martin-Lopez&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-<svg width="100%" viewBox="0 0 900 260" xmlns="http://www.w3.org/2000/svg">
-  <rect x="0" y="0" width="900" height="260" rx="16" fill="#1e1e2f"/>
-
-  <text x="40" y="80"
-        fill="#c5b2ff"
-        font-size="64"
-        font-family="Arial, Helvetica, sans-serif">“</text>
-
-  <text x="820" y="220"
-        fill="#c5b2ff"
-        font-size="64"
-        font-family="Arial, Helvetica, sans-serif">”</text>
-
-  <text x="100" y="110"
-        fill="#a0e1e0"
-        font-size="28"
-        font-style="italic"
-        font-family="Arial, Helvetica, sans-serif">
-    <tspan x="100" dy="0">The greatest value of a picture</tspan>
-    <tspan x="100" dy="36">is when it forces us to notice</tspan>
-    <tspan x="100" dy="36">what we never expected to see.</tspan>
-  </text>
-
-  <text x="760" y="200"
-        text-anchor="end"
-        fill="#8aaaff"
-        font-size="20"
-        font-family="Arial, Helvetica, sans-serif">
-    — John Tukey
-  </text>
-</svg>
-
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Lucas-Martin-Lopez&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
@@ -75,4 +42,3 @@ Hi! I’m Lucas Martín López, a Junior Data Scientist with strong skills in Py
 ---
 [![](https://visitcount.itsvg.in/api?id=Lucas-Martin-Lopez&icon=2&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
